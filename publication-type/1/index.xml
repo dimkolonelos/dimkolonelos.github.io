@@ -5,12 +5,20 @@
     <link>https://dimkolonelos.github.io/publication-type/1/</link>
       <atom:link href="https://dimkolonelos.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dimkolonelos.github.io/media/icon_huc0b9535f6f0b4b952404c84d1bb682e5_5135_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://dimkolonelos.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Efficient Registration-Based Encryption</title>
+      <link>https://dimkolonelos.github.io/publication/gkmr22/</link>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://dimkolonelos.github.io/publication/gkmr22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Efficient Laconic Cryptography from Learning With Errors</title>
