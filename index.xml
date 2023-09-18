@@ -5,12 +5,20 @@
     <link>https://dimkolonelos.github.io/</link>
       <atom:link href="https://dimkolonelos.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Dimitris Kolonelos</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dimkolonelos.github.io/media/icon_huc0b9535f6f0b4b952404c84d1bb682e5_5135_512x512_fill_lanczos_center_3.png</url>
       <title>Dimitris Kolonelos</title>
       <link>https://dimkolonelos.github.io/</link>
     </image>
+    
+    <item>
+      <title>Cuckoo Commitments: Registration-Based Encryption and Key-Value Map Commitments for Large Spaces</title>
+      <link>https://dimkolonelos.github.io/publication/fkp23/</link>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://dimkolonelos.github.io/publication/fkp23/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Distributed Broadcast Encryption from Bilinear Groups</title>
