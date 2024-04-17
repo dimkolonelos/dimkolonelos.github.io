@@ -5,12 +5,20 @@
     <link>https://dimkolonelos.github.io/publication/</link>
       <atom:link href="https://dimkolonelos.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dimkolonelos.github.io/media/icon_huc0b9535f6f0b4b952404c84d1bb682e5_5135_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://dimkolonelos.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Threshold Encryption with Silent Setup</title>
+      <link>https://dimkolonelos.github.io/publication/gkpw24/</link>
+      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://dimkolonelos.github.io/publication/gkpw24/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cuckoo Commitments: Registration-Based Encryption and Key-Value Map Commitments for Large Spaces</title>
